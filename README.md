@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=universe-7-bot&show_icons=true&locale=en" alt="universe-7-bot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=universe-7-bot&" alt="universe-7-bot" /></p>
+
+## Watch my contribution graph get eaten by the snake
+![snake gif](https://github.com/Universe-7-bot/Universe-7-bot/blob/output/github-contribution-grid-snake.gif)
