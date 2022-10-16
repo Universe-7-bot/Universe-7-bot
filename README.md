@@ -45,5 +45,5 @@
 ## Watch my contribution graph get eaten by the snake 💁👌😍
 ![Snake animation](https://github.com/Universe-7-bot/Universe-7-bot/blob/output/github-contribution-grid-snake.svg)
 <!-- 
-## Watch my name as contributions animation 💁👌😍
+## Watch my name as contributions animation 💁😍
 ![snake gif](gitartwork.svg) -->
