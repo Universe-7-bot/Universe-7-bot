@@ -39,5 +39,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=universe-7-bot&" alt="universe-7-bot" /></p>
 
+
+[![Sohan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Universe-7-bot&theme=xcode)](https://git.io/Universe-7-bot)
+
 ## Watch my contribution graph get eaten by the snake
-![snake gif](https://github.com/Universe-7-bot/Universe-7-bot/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Universe-7-bot/Universe-7-bot/blob/output/github-contribution-grid-snake.svg)
+
+## Watch my name as contributions animation 💁👌😍
+![snake gif](gitartwork.svg)
