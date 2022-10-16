@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: Universe-7-bot/gitartwork@v2
+       - uses: Universe-7-bot/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: Universe-7-bot
             # Text on contribution graph 
             text: SOHAN
-       - uses: Universe-7-bot/simple-push-action@v2
+       - uses: Universe-7-bot/simple-push-action@v1
