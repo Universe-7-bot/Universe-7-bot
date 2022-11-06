@@ -39,6 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=universe-7-bot&" alt="universe-7-bot" /></p>
 
+[![@sohan007's Holopin board](https://holopin.me/sohan007)](https://holopin.io/@sohan007)
 
 [![Sohan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Universe-7-bot&theme=xcode)](https://git.io/Universe-7-bot)
 
