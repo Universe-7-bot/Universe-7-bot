@@ -1,18 +1,18 @@
 ![logo](https://github.com/Universe-7-bot/Universe-7-bot/blob/main/Banner.png)
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Sohan Singhamahapatra</h1>
-<h3 align="center">A passionate frontend developer from India<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></h3>
+<h3 align="center">A passionate full stack developer from India<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=universe-7-bot&label=Profile%20views&color=0e75b6&style=flat" alt="universe-7-bot" /> </p>
 
-- 🌱 I’m currently learning **back-end**
+- 🌱 Passionate about learning **new technologies**
 
 - 👨‍💻 All of my projects are available at [https://r.mtdv.me/wUJBDvAYnx](https://r.mtdv.me/wUJBDvAYnx)
 
 - 📝 I regularly write articles on [https://medium.com/@sohansinghamahapatra02103](https://medium.com/@sohansinghamahapatra02103)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **sohansinghamahapatra02103@gmail.com**
 
