@@ -1,4 +1,4 @@
-![logo](https://github.com/Universe-7-bot/Universe-7-bot/blob/main/Banner.png)
+![logo](https://i.ibb.co/cC63F48/FULL-STACK-DEVELOPER.png)
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Sohan Singhamahapatra</h1>
 <h3 align="center">A passionate full stack developer from India<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></h3>
 
